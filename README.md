@@ -9,7 +9,9 @@ Run this in terminal before executing the project
 
 *pip install mysql-connector
 
-If you find any issue please contact to me through 
+If you have any trouble then watch the video first !! 
+or contact me through these
+
 emal:yaviral17@gmail.com
 instagram:sudo_yavi
 
